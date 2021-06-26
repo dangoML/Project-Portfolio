@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel. Welcome to My Project Portfolio!</h1>
+<h1 align="center">Hi 👋, I'm Daniel.</h1>
 <h3 align="center">An Industrial Engineer/Business Developer turned Data Scientist from Miami, Florida.</h3>
 
 - 🔭 I’m currently working on [A Real-Estate Investment Opportunity Identifier called DeepREI](https://github.com/dangoML/Project-Portfolio/tree/master/DeepREI)
@@ -8,6 +8,7 @@
 - 📝 I sporadically write articles on [Medium](https://medium.com/@dangoml)
 
 - 📫 You can reach me at: **dejurado@protonmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
