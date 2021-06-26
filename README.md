@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An Industrial Engineer and Business Developer now turned Data Scientist from Miami, Florida.</h3>
 
-- 📝 I sporadically write articles on [https://medium.com/@dangoml](Medium)
+- 📝 I sporadically write articles on [Medium.com](https://medium.com/@dangoml)
 
 - 📫 How to reach me **dejurado@protonmail.com**
 
