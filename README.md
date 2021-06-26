@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">An Industrial Engineer and Business Developer now turned Data Scientist from Miami, Florida.</h3>
+<h1 align="center">Hi 👋, I'm Daniel. Welcome to My Project Portfolio!</h1>
+<h3 align="center">An Industrial Engineer/Business Developer turned Data Scientist from Miami, Florida.</h3>
 
-- 📝 I sporadically write articles on [Medium.com](https://medium.com/@dangoml)
+- 🔭 I’m currently working on [A Real-Estate Investment Opportunity Identifier called DeepREI](https://github.com/dangoML/Project-Portfolio/tree/master/DeepREI)
 
-- 📫 How to reach me **dejurado@protonmail.com**
+- 🌱 I’m currently learning **NLP**
+
+- 📝 I sporadically write articles on [https://towardsdatascience.com/tagged/hetero-customer-geneous](Medium)
+
+- 📫 You can reach me at: **dejurado@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
