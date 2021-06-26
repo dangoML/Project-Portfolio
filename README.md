@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 📝 I sporadically write articles on [https://towardsdatascience.com/tagged/hetero-customer-geneous](Medium)
+- 📝 I sporadically write articles on [Medium](https://medium.com/@dangoml)
 
 - 📫 You can reach me at: **dejurado@protonmail.com**
 
