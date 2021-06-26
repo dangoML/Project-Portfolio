@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Real-Estate Investment Opportunity Identifier called DeepREI](https://github.com/dangoML/Project-Portfolio/tree/master/DeepREI)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP** while continuing to expand my knowledge on **Neural Networks**.
 
 - 📝 I sporadically write articles on [Medium](https://medium.com/@dangoml)
 
