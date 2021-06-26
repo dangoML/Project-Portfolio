@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An Industrial Engineer and Business Developer now turned Data Scientist from Miami, Florida.</h3>
 
-- 📝 I sporadically write articles on [https://towardsdatascience.com/tagged/hetero-customer-geneous](https://towardsdatascience.com/tagged/hetero-customer-geneous)
+- 📝 I sporadically write articles on [https://medium.com/@dangoml](Medium)
 
 - 📫 How to reach me **dejurado@protonmail.com**
 
