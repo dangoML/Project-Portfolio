@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel.</h1>
 <h3 align="center">An Industrial Engineer/Business Developer turned Data Scientist from Miami, Florida.</h3>
 
-- 🔭 I’m currently working on [A Real-Estate Investment Opportunity Identifier called DeepREI](https://github.com/dangoML/Project-Portfolio/tree/master/DeepREI)
+- 🔭 I’m currently working on Probabilistic Media Mix Models
 
-- 🌱 I’m currently learning **NLP** while continuing to expand my knowledge on **Neural Networks**.
+<!-- - 🌱 I’m currently learning **NLP** while continuing to expand my knowledge on **Neural Networks**. -->
 
 - 📝 I sporadically write articles on [Medium](https://medium.com/@dangoml)
 
